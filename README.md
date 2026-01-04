@@ -17,11 +17,11 @@
   </p>
 
   <p>
-    <a href="#🌟-深度功能解析-detailed-features">核心功能</a> •
-    <a href="#📸-界面导览-gui-overview">界面导览</a> •
-    <a href="#🏗️-技术架构-architecture">技术架构</a> •
+    <a href="#深度功能解析-detailed-features">核心功能</a> •
+    <a href="#界面导览-gui-overview">界面导览</a> •
+    <a href="#技术架构-architecture">技术架构</a> •
     <a href="#安装指南-installation">安装指南</a> •
-    <a href="#🔌-快速接入示例">快速接入</a>
+    <a href="#快速接入示例">快速接入</a>
   </p>
 
   <p>
