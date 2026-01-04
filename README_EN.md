@@ -18,11 +18,11 @@
   </p>
 
   <p>
-    <a href="#-features">Features</a> • 
-    <a href="#-gui-overview">GUI Overview</a> • 
-    <a href="#-architecture">Architecture</a> • 
-    <a href="#-installation">Installation</a> • 
-    <a href="#-quick-integration">Integration</a>
+    <a href="#-detailed-feature-matrix">Features</a> •
+    <a href="#-gui-overview">GUI Overview</a> •
+    <a href="#️-architecture">Architecture</a> •
+    <a href="#-installation">Installation</a> •
+    <a href="#-quick-integration-examples">Integration</a>
   </p>
 
   <p>
